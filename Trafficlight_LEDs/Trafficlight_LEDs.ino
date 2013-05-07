@@ -1,6 +1,5 @@
 /*
-  Blink
-  Turns on an LED on for one second, then off for one second, repeatedly.
+  Using three LEDs, this sketch will flash them like a traffic light
  
   This example code is in the public domain.
  */
