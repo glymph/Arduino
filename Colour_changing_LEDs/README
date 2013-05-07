@@ -1,0 +1,4 @@
+Colour-changing LEDs
+
+With up to four LEDs connected to each of the PWM-capable pins of an Arduino their brightness
+can be varied.
