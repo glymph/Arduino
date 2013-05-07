@@ -1,8 +1,9 @@
 /*
-  Blink
-  Turns on an LED on for one second, then off for one second, repeatedly.
+  Blink three LEDs
+  
+  Turns on and off up to three LEDs.
  
-  This example code is in the public domain.
+  Adapted from original blink example and shared into the public domain
  */
  
 const int outputpin1 = 2;
